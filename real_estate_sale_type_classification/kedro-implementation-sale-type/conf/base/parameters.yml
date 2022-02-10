@@ -1,0 +1,12 @@
+cols:
+  - HoodAvg
+  - HoodMed
+  - TotalSF
+  - OverallQCP
+  - FuncScore
+  - TotalBath
+  - TotRmsAbvGrd
+  - BedroomAbvGr
+  - LotArea
+  - GarageArea
+  - SalePrice
