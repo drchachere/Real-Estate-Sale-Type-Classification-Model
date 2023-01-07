@@ -1,6 +1,0 @@
-Model,Accuracy,F1
-neural network imbalanced,0.7842465753424658,0.03076923076923077
-neural network undersampled,0.5821917808219178,0.35106382978723405
-neural network undersampled weighted,0.7602739726027398,0.375
-neural network oversampled,0.6917808219178082,0.4375
-neural network oversampled weighted,0.7294520547945206,0.34710743801652894
